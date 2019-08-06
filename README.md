@@ -1,4 +1,7 @@
 # NLP-Emoji-Predictor
+
+This is group work of Lulu Wan, Qiqi Zeng and Su Shen 
+
 Instead of using Softmax to pick out the most likely emoji, we predicted emojis according to cosine similarity between the sentence vector and its corresponding emoji vector.
 There are 5 files in this source_code folder.
 
